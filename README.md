@@ -1,6 +1,6 @@
 - Sobre mim
--  👋Olá, meu nome é @charlessonntag
-- 👍 Meu emailpara contato é charles.sonntag@escola.pr.gov.br
+-  👋Olá, meu nome é **@charlessonntag**
+- 👍 Meu email para contato é [email](charles.sonntag@escola.pr.gov.br)
 - 👀 Eu estou interessado em aprender a progamar novas linguagens.
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch.
 
